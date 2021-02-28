@@ -1,0 +1,68 @@
+/*rang safe header*/
+
+body{
+	background-image:url('images/download (3).jfif');
+	  background-attachment:fixed;
+	font-family:'open Sans' ,sans-serif;
+	margin:0;
+}
+
+.primary-header{
+       text-align:center;
+}
+
+.main-heading{
+	 color:#15ff00;
+	 font-size:70px;
+}
+
+.site-preview{
+	 width:650px;
+}
+
+.school-section{
+	display:flex;
+	margin:50px auto;
+	width:450px;
+}
+
+.imager{
+	 width:200px;
+
+}
+
+.school-details{
+         margin-left:30px;
+}
+
+.category-heading{
+	color:#00ffdf;
+	font-size:30px;
+}
+
+.store-list{
+	color:#FFC122;
+	padding-left:15px;
+}
+
+.control-name{
+        margin-bottom:10px;
+}
+
+.store-link{
+	 color:#f0ff00;
+	 font-size:20px; 
+}
+
+.primary-footer{
+       background-color:#FFC122; 
+       padding:1px;
+       text-align:center;
+}
+
+.created-by{
+	color:#FFFFFF ;
+	font-size:20px;
+
+}
+
