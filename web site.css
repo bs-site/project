@@ -54,6 +54,12 @@ body{
 	 font-size:20px; 
 }
 
+.mean-div{
+	 color:#f0ff00;
+	font-size:30px;
+	text-align:right;
+}
+
 .primary-footer{
        background-color:#FFC122; 
        padding:1px;
