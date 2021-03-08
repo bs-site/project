@@ -1,8 +1,11 @@
 /*rang safe header*/
 
 body{
-	background-image:url('images/download (3).jfif');
-	  background-attachment:fixed;
+	 background: url("images/image-20160606-13080-s7o3qu.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 	font-family:'open Sans' ,sans-serif;
 	margin:0;
 }
