@@ -6,7 +6,6 @@ body{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	font-family:'open Sans' ,sans-serif;
 	margin:0;
 }
 
@@ -15,7 +14,7 @@ body{
 }
 
 .main-heading{
-	 color:#15ff00;
+	 color:#8B4513;
 	 font-size:70px;
 }
 
@@ -27,6 +26,7 @@ body{
 	display:flex;
 	margin:50px auto;
 	width:450px;
+	font-family:'open Sans' ,sans-serif;
 }
 
 .imager{
@@ -36,42 +36,50 @@ body{
 
 .school-details{
          margin-left:30px;
+         font-family:'open Sans' ,sans-serif;
 }
 
 .category-heading{
 	color:#00ffdf;
 	font-size:30px;
+	font-family:'open Sans' ,sans-serif;
 }
 
 .store-list{
 	color:#FFC122;
 	padding-left:15px;
+	font-family:'open Sans' ,sans-serif;
 }
 
 .control-name{
         margin-bottom:10px;
+        font-family:'open Sans' ,sans-serif;
 }
 
 .store-link{
 	 color:#f0ff00;
 	 font-size:20px; 
+	 font-family:'open Sans' ,sans-serif;
 }
 
 .mean-div{
-	 color:#f0ff00;
+	 color:#000080;
 	font-size:30px;
 	text-align:right;
+	font-family:'open Sans' ,sans-serif;
 }
 
 .primary-footer{
        background-color:#FFC122; 
        padding:1px;
        text-align:center;
+       font-family:'open Sans' ,sans-serif;
 }
 
 .created-by{
 	color:#FFFFFF ;
-	font-size:20px;
+	font-size:20px;	
+	font-family:'open Sans' ,sans-serif;
 
 }
 
