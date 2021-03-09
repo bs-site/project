@@ -22,6 +22,15 @@ body{
 	 width:650px;
 }
 
+.photo-all{
+	 width:180px;
+     float:right;
+}
+
+.photo-do{
+	 width:180px;
+     float:left;
+}
 .school-section{
 	display:flex;
 	margin:50px auto;
@@ -42,13 +51,12 @@ body{
 .category-heading{
 	color:#00ffdf;
 	font-size:30px;
+	text-align:center;
 	font-family:'open Sans' ,sans-serif;
 }
 
 .store-list{
-	color:#FFC122;
-	padding-left:15px;
-	font-family:'open Sans' ,sans-serif;
+	list-style-type: none;
 }
 
 .control-name{
@@ -59,6 +67,7 @@ body{
 .store-link{
 	 color:#f0ff00;
 	 font-size:20px; 
+	 text-align:center;
 	 font-family:'open Sans' ,sans-serif;
 }
 
@@ -74,7 +83,9 @@ body{
        padding:1px;
        text-align:center;
        font-family:'open Sans' ,sans-serif;
+
 }
+
 
 .created-by{
 	color:#FFFFFF ;
